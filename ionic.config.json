@@ -1,0 +1,7 @@
+{
+  "name": "deltalogic-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
